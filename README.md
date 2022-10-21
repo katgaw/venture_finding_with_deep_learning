@@ -47,7 +47,7 @@ To use this project simply clone the repository and run the code **venture_fundi
 ---
 
 ## Methodologys
-This project helps a venture-capitalist firm to direct funding to potentially successful businesses. A deep-learning model trains on over 30.000 organizations and predicts if an applicant business is going to become successful. 
+This project helps a venture-capital firm to direct funding to potentially successful businesses. A deep-learning model trains on over 30.000 organizations and predicts if an applicant business is going to become successful. 
 The dataset takes on the following form:
 
 ![snippet of our code](Images/image1.png)
